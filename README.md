@@ -40,4 +40,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HalaMedhatt/Data-Structure/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HalaMedhatt/Data-Structure/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HalaMedhatt/Data-Structure/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
