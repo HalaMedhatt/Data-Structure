@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HalaMedhatt/Data-Structure/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HalaMedhatt/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,9 +44,14 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HalaMedhatt/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HalaMedhatt/Data-Structure/tree/master/0155-min-stack) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HalaMedhatt/Data-Structure/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HalaMedhatt/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
