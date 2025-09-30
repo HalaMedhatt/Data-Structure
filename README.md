@@ -46,6 +46,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HalaMedhatt/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HalaMedhatt/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HalaMedhatt/Data-Structure/tree/master/0155-min-stack) |
 ## Design
@@ -73,6 +74,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HalaMedhatt/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/HalaMedhatt/Data-Structure/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HalaMedhatt/Data-Structure/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HalaMedhatt/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HalaMedhatt/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
