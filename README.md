@@ -21,17 +21,20 @@
 | [0002-add-two-numbers](https://github.com/HalaMedhatt/Data-Structure/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/HalaMedhatt/Data-Structure/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HalaMedhatt/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/HalaMedhatt/Data-Structure/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HalaMedhatt/Data-Structure/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/HalaMedhatt/Data-Structure/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HalaMedhatt/Data-Structure/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/HalaMedhatt/Data-Structure/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HalaMedhatt/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/HalaMedhatt/Data-Structure/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/HalaMedhatt/Data-Structure/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
